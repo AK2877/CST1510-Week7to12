@@ -1,0 +1,101 @@
+date,incident_type,severity,status,description,reported_by
+2024-03-29,Insider Threat,Critical,Resolved,Auto-generated description 1,diana
+2024-03-14,Insider Threat,Critical,Open,Auto-generated description 2,alice
+2025-05-09,DDoS,High,Mitigated,Auto-generated description 3,alice
+2025-10-07,Vulnerability Exploit,Medium,Closed,Auto-generated description 4,diana
+2024-09-12,Vulnerability Exploit,Critical,Open,Auto-generated description 5,
+2024-10-17,Malware,Medium,Resolved,Auto-generated description 6,diana
+2024-05-04,Malware,Low,Resolved,Auto-generated description 7,diana
+2024-12-09,Insider Threat,High,Mitigated,Auto-generated description 8,bob
+2025-04-14,DDoS,High,Resolved,Auto-generated description 9,charlie
+2025-07-03,DDoS,Medium,Mitigated,Auto-generated description 10,diana
+2024-11-20,Malware,Medium,Mitigated,Auto-generated description 11,diana
+2024-05-07,Insider Threat,Medium,Mitigated,Auto-generated description 12,diana
+2025-09-21,DDoS,High,Closed,Auto-generated description 13,
+2025-05-31,Vulnerability Exploit,Medium,Closed,Auto-generated description 14,charlie
+2024-03-24,Phishing,Critical,Mitigated,Auto-generated description 15,
+2025-09-14,Ransomware,Critical,Resolved,Auto-generated description 16,bob
+2024-02-27,Ransomware,High,Mitigated,Auto-generated description 17,diana
+2024-12-25,DDoS,Low,Investigating,Auto-generated description 18,diana
+2025-08-20,Phishing,High,Resolved,Auto-generated description 19,
+2024-09-25,Vulnerability Exploit,Low,Mitigated,Auto-generated description 20,charlie
+2025-03-18,Insider Threat,Medium,Resolved,Auto-generated description 21,bob
+2024-05-09,Vulnerability Exploit,Low,Closed,Auto-generated description 22,diana
+2024-06-04,Phishing,High,Open,Auto-generated description 23,charlie
+2025-03-29,DDoS,Low,Investigating,Auto-generated description 24,charlie
+2025-10-24,Malware,Critical,Closed,Auto-generated description 25,diana
+2024-06-28,Vulnerability Exploit,Critical,Open,Auto-generated description 26,bob
+2025-01-19,DDoS,Medium,Investigating,Auto-generated description 27,diana
+2025-01-02,Ransomware,Critical,Closed,Auto-generated description 28,charlie
+2024-02-27,Ransomware,High,Open,Auto-generated description 29,bob
+2024-02-16,Ransomware,Medium,Investigating,Auto-generated description 30,charlie
+2025-01-10,Vulnerability Exploit,Low,Open,Auto-generated description 31,diana
+2025-05-26,DDoS,Critical,Resolved,Auto-generated description 32,diana
+2024-03-26,Malware,Low,Closed,Auto-generated description 33,diana
+2024-11-16,DDoS,Critical,Open,Auto-generated description 34,bob
+2024-03-14,DDoS,High,Closed,Auto-generated description 35,charlie
+2025-05-13,Malware,High,Closed,Auto-generated description 36,
+2024-05-30,Insider Threat,Low,Open,Auto-generated description 37,diana
+2024-03-13,Phishing,Critical,Investigating,Auto-generated description 38,charlie
+2024-11-13,Insider Threat,Medium,Closed,Auto-generated description 39,diana
+2025-09-08,DDoS,Low,Mitigated,Auto-generated description 40,charlie
+2025-01-19,Ransomware,Critical,Open,Auto-generated description 41,bob
+2025-08-03,Vulnerability Exploit,Critical,Mitigated,Auto-generated description 42,
+2025-08-12,Vulnerability Exploit,Low,Resolved,Auto-generated description 43,
+2024-05-25,Insider Threat,Low,Resolved,Auto-generated description 44,charlie
+2025-05-14,Ransomware,Low,Open,Auto-generated description 45,bob
+2024-04-12,Insider Threat,Medium,Closed,Auto-generated description 46,charlie
+2025-08-19,Malware,Critical,Investigating,Auto-generated description 47,charlie
+2024-01-06,Insider Threat,High,Open,Auto-generated description 48,diana
+2024-12-31,Phishing,Medium,Mitigated,Auto-generated description 49,alice
+2024-02-24,Phishing,High,Open,Auto-generated description 50,bob
+2024-12-01,DDoS,Medium,Open,Auto-generated description 51,alice
+2025-04-28,Ransomware,Medium,Resolved,Auto-generated description 52,bob
+2025-07-16,Ransomware,Critical,Mitigated,Auto-generated description 53,alice
+2024-01-07,Insider Threat,Medium,Resolved,Auto-generated description 54,diana
+2024-02-20,DDoS,Critical,Resolved,Auto-generated description 55,charlie
+2024-12-17,DDoS,Medium,Mitigated,Auto-generated description 56,
+2024-12-14,Malware,Medium,Investigating,Auto-generated description 57,
+2025-05-28,Ransomware,High,Investigating,Auto-generated description 58,diana
+2024-06-05,Ransomware,Critical,Investigating,Auto-generated description 59,diana
+2024-08-05,Ransomware,Medium,Closed,Auto-generated description 60,diana
+2024-07-27,Phishing,Low,Closed,Auto-generated description 61,bob
+2025-10-02,DDoS,Medium,Open,Auto-generated description 62,
+2025-09-20,Phishing,Low,Investigating,Auto-generated description 63,bob
+2025-04-08,Malware,High,Closed,Auto-generated description 64,
+2024-09-02,Malware,High,Resolved,Auto-generated description 65,charlie
+2025-01-02,Vulnerability Exploit,Low,Resolved,Auto-generated description 66,alice
+2024-09-17,Vulnerability Exploit,Medium,Closed,Auto-generated description 67,charlie
+2025-07-27,Insider Threat,High,Mitigated,Auto-generated description 68,bob
+2024-11-08,Vulnerability Exploit,High,Mitigated,Auto-generated description 69,diana
+2024-11-24,Insider Threat,Low,Resolved,Auto-generated description 70,alice
+2025-07-15,Ransomware,Medium,Investigating,Auto-generated description 71,charlie
+2024-10-19,Vulnerability Exploit,Low,Open,Auto-generated description 72,charlie
+2025-05-03,Vulnerability Exploit,Medium,Closed,Auto-generated description 73,
+2025-08-12,Insider Threat,Medium,Mitigated,Auto-generated description 74,alice
+2024-10-21,Vulnerability Exploit,High,Investigating,Auto-generated description 75,diana
+2025-04-20,Vulnerability Exploit,Medium,Investigating,Auto-generated description 76,alice
+2024-08-05,Insider Threat,High,Mitigated,Auto-generated description 77,alice
+2024-11-08,Malware,High,Resolved,Auto-generated description 78,charlie
+2024-09-20,Insider Threat,Medium,Closed,Auto-generated description 79,diana
+2025-01-04,Vulnerability Exploit,Low,Mitigated,Auto-generated description 80,diana
+2024-10-20,Vulnerability Exploit,Medium,Resolved,Auto-generated description 81,bob
+2024-10-21,Vulnerability Exploit,Low,Open,Auto-generated description 82,
+2025-01-20,Vulnerability Exploit,Critical,Mitigated,Auto-generated description 83,bob
+2025-01-02,Malware,Low,Resolved,Auto-generated description 84,
+2024-04-24,Vulnerability Exploit,Medium,Investigating,Auto-generated description 85,bob
+2024-11-16,Insider Threat,Medium,Open,Auto-generated description 86,
+2024-03-28,Ransomware,Medium,Resolved,Auto-generated description 87,
+2025-02-22,Phishing,Critical,Open,Auto-generated description 88,diana
+2024-08-24,Ransomware,Low,Closed,Auto-generated description 89,bob
+2024-09-19,Vulnerability Exploit,Low,Investigating,Auto-generated description 90,bob
+2025-04-06,Ransomware,Low,Mitigated,Auto-generated description 91,bob
+2024-04-18,Vulnerability Exploit,High,Resolved,Auto-generated description 92,charlie
+2025-06-23,Phishing,Low,Investigating,Auto-generated description 93,alice
+2025-04-21,Ransomware,Critical,Open,Auto-generated description 94,diana
+2024-04-22,Insider Threat,Critical,Resolved,Auto-generated description 95,alice
+2025-10-13,Phishing,High,Open,Auto-generated description 96,bob
+2025-11-29,Vulnerability Exploit,Low,Open,Auto-generated description 97,bob
+2025-05-08,Ransomware,Low,Investigating,Auto-generated description 98,
+2024-12-12,Malware,Critical,Closed,Auto-generated description 99,alice
+2025-06-26,Vulnerability Exploit,High,Mitigated,Auto-generated description 100,bob

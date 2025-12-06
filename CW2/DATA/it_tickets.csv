@@ -1,0 +1,101 @@
+ticket_id,priority,status,category,subject,description,created_date,resolved_date,assigned_to
+TCK-1000,Critical,Closed,Network,Ticket subject 1,Auto-generated ticket 1,2025-11-19,2027-09-04,
+TCK-1001,Low,Closed,Access,Ticket subject 2,Auto-generated ticket 2,2025-01-19,2027-06-02,
+TCK-1002,Critical,In Progress,Hardware,Ticket subject 3,Auto-generated ticket 3,2024-12-17,,tech3
+TCK-1003,Low,Open,Software,Ticket subject 4,Auto-generated ticket 4,2024-10-22,,tech1
+TCK-1004,Medium,Closed,Access,Ticket subject 5,Auto-generated ticket 5,2025-02-11,2026-12-25,tech2
+TCK-1005,Critical,Closed,Hardware,Ticket subject 6,Auto-generated ticket 6,2025-05-22,2027-10-13,
+TCK-1006,Medium,Resolved,Access,Ticket subject 7,Auto-generated ticket 7,2025-05-19,2025-12-03,
+TCK-1007,Medium,Open,Access,Ticket subject 8,Auto-generated ticket 8,2024-08-12,,tech2
+TCK-1008,High,In Progress,Network,Ticket subject 9,Auto-generated ticket 9,2024-03-08,,
+TCK-1009,Low,Resolved,Hardware,Ticket subject 10,Auto-generated ticket 10,2024-02-17,2026-02-04,
+TCK-1010,Medium,In Progress,Access,Ticket subject 11,Auto-generated ticket 11,2025-04-07,,tech3
+TCK-1011,Low,Open,Network,Ticket subject 12,Auto-generated ticket 12,2025-12-01,,tech1
+TCK-1012,Medium,Open,Network,Ticket subject 13,Auto-generated ticket 13,2024-05-18,,tech2
+TCK-1013,Critical,Open,Software,Ticket subject 14,Auto-generated ticket 14,2024-09-01,,tech1
+TCK-1014,High,Closed,Access,Ticket subject 15,Auto-generated ticket 15,2025-05-08,2027-10-03,tech1
+TCK-1015,High,Closed,Policy,Ticket subject 16,Auto-generated ticket 16,2024-06-30,2026-03-14,tech2
+TCK-1016,High,In Progress,Network,Ticket subject 17,Auto-generated ticket 17,2025-09-08,,tech1
+TCK-1017,Medium,In Progress,Software,Ticket subject 18,Auto-generated ticket 18,2024-09-08,,tech2
+TCK-1018,High,Resolved,Software,Ticket subject 19,Auto-generated ticket 19,2025-03-26,2027-11-01,
+TCK-1019,Low,Closed,Network,Ticket subject 20,Auto-generated ticket 20,2024-06-04,2026-12-17,tech3
+TCK-1020,Low,Closed,Policy,Ticket subject 21,Auto-generated ticket 21,2024-06-07,2027-09-08,tech2
+TCK-1021,High,Resolved,Software,Ticket subject 22,Auto-generated ticket 22,2025-10-27,2026-08-19,tech2
+TCK-1022,Critical,Open,Software,Ticket subject 23,Auto-generated ticket 23,2024-03-16,,tech3
+TCK-1023,Critical,Open,Network,Ticket subject 24,Auto-generated ticket 24,2025-07-07,,tech3
+TCK-1024,Medium,Open,Network,Ticket subject 25,Auto-generated ticket 25,2024-04-25,,tech2
+TCK-1025,High,Open,Policy,Ticket subject 26,Auto-generated ticket 26,2025-08-23,,tech2
+TCK-1026,Low,Resolved,Software,Ticket subject 27,Auto-generated ticket 27,2025-10-11,2026-03-26,tech2
+TCK-1027,Medium,In Progress,Access,Ticket subject 28,Auto-generated ticket 28,2024-04-25,,tech1
+TCK-1028,Critical,In Progress,Policy,Ticket subject 29,Auto-generated ticket 29,2025-07-30,,tech2
+TCK-1029,Critical,Closed,Policy,Ticket subject 30,Auto-generated ticket 30,2025-10-14,2026-12-19,tech2
+TCK-1030,High,In Progress,Hardware,Ticket subject 31,Auto-generated ticket 31,2025-08-05,,tech2
+TCK-1031,High,Closed,Hardware,Ticket subject 32,Auto-generated ticket 32,2025-03-02,2026-09-03,tech2
+TCK-1032,Low,Closed,Policy,Ticket subject 33,Auto-generated ticket 33,2025-05-02,2026-07-23,
+TCK-1033,High,Closed,Policy,Ticket subject 34,Auto-generated ticket 34,2024-09-19,2026-01-20,
+TCK-1034,Low,Resolved,Policy,Ticket subject 35,Auto-generated ticket 35,2024-03-27,2026-12-15,tech2
+TCK-1035,Critical,Closed,Hardware,Ticket subject 36,Auto-generated ticket 36,2024-02-19,2026-06-28,tech2
+TCK-1036,Low,Open,Hardware,Ticket subject 37,Auto-generated ticket 37,2024-11-08,,tech1
+TCK-1037,Critical,Closed,Network,Ticket subject 38,Auto-generated ticket 38,2025-06-14,2026-02-16,
+TCK-1038,Critical,Open,Access,Ticket subject 39,Auto-generated ticket 39,2025-05-13,,tech1
+TCK-1039,High,Closed,Software,Ticket subject 40,Auto-generated ticket 40,2024-10-11,2027-02-05,tech2
+TCK-1040,High,Closed,Policy,Ticket subject 41,Auto-generated ticket 41,2024-05-11,2027-09-22,
+TCK-1041,Critical,In Progress,Software,Ticket subject 42,Auto-generated ticket 42,2024-05-08,,
+TCK-1042,High,Open,Hardware,Ticket subject 43,Auto-generated ticket 43,2024-09-21,,tech2
+TCK-1043,Medium,In Progress,Hardware,Ticket subject 44,Auto-generated ticket 44,2024-06-27,,
+TCK-1044,Medium,In Progress,Policy,Ticket subject 45,Auto-generated ticket 45,2025-04-12,,tech1
+TCK-1045,Low,In Progress,Access,Ticket subject 46,Auto-generated ticket 46,2025-01-21,,
+TCK-1046,Critical,In Progress,Hardware,Ticket subject 47,Auto-generated ticket 47,2025-11-07,,tech1
+TCK-1047,Critical,Resolved,Software,Ticket subject 48,Auto-generated ticket 48,2025-04-08,2026-01-03,tech1
+TCK-1048,High,In Progress,Network,Ticket subject 49,Auto-generated ticket 49,2025-08-20,,
+TCK-1049,Critical,Open,Software,Ticket subject 50,Auto-generated ticket 50,2024-05-06,,tech1
+TCK-1050,Low,In Progress,Policy,Ticket subject 51,Auto-generated ticket 51,2024-06-07,,
+TCK-1051,Critical,Closed,Access,Ticket subject 52,Auto-generated ticket 52,2024-11-07,2027-07-09,tech1
+TCK-1052,Low,In Progress,Policy,Ticket subject 53,Auto-generated ticket 53,2025-01-14,,tech2
+TCK-1053,Critical,In Progress,Policy,Ticket subject 54,Auto-generated ticket 54,2025-04-15,,
+TCK-1054,Low,In Progress,Access,Ticket subject 55,Auto-generated ticket 55,2024-05-04,,tech3
+TCK-1055,High,Open,Hardware,Ticket subject 56,Auto-generated ticket 56,2025-01-26,,
+TCK-1056,Critical,Resolved,Network,Ticket subject 57,Auto-generated ticket 57,2025-09-01,2027-02-06,tech1
+TCK-1057,High,Resolved,Network,Ticket subject 58,Auto-generated ticket 58,2024-08-24,2026-08-24,tech2
+TCK-1058,Medium,In Progress,Software,Ticket subject 59,Auto-generated ticket 59,2024-05-25,,tech1
+TCK-1059,Critical,Open,Hardware,Ticket subject 60,Auto-generated ticket 60,2025-07-29,,tech1
+TCK-1060,Low,Resolved,Network,Ticket subject 61,Auto-generated ticket 61,2024-03-29,2026-01-24,tech1
+TCK-1061,High,In Progress,Policy,Ticket subject 62,Auto-generated ticket 62,2025-03-09,,tech1
+TCK-1062,Critical,Open,Network,Ticket subject 63,Auto-generated ticket 63,2025-04-27,,tech1
+TCK-1063,Critical,Open,Access,Ticket subject 64,Auto-generated ticket 64,2025-09-04,,tech1
+TCK-1064,Medium,In Progress,Software,Ticket subject 65,Auto-generated ticket 65,2025-11-28,,tech1
+TCK-1065,High,Closed,Policy,Ticket subject 66,Auto-generated ticket 66,2025-11-29,2027-01-31,tech1
+TCK-1066,High,Open,Access,Ticket subject 67,Auto-generated ticket 67,2024-02-10,,tech1
+TCK-1067,Low,Closed,Network,Ticket subject 68,Auto-generated ticket 68,2025-03-10,2026-06-23,tech1
+TCK-1068,High,Open,Software,Ticket subject 69,Auto-generated ticket 69,2024-07-31,,
+TCK-1069,Low,Resolved,Network,Ticket subject 70,Auto-generated ticket 70,2024-09-27,2027-06-27,tech3
+TCK-1070,High,Resolved,Access,Ticket subject 71,Auto-generated ticket 71,2024-09-05,2026-11-03,tech2
+TCK-1071,High,In Progress,Policy,Ticket subject 72,Auto-generated ticket 72,2024-01-14,,tech2
+TCK-1072,Critical,Closed,Network,Ticket subject 73,Auto-generated ticket 73,2024-01-13,2027-09-04,tech1
+TCK-1073,Critical,In Progress,Network,Ticket subject 74,Auto-generated ticket 74,2024-11-06,,tech1
+TCK-1074,Low,Resolved,Network,Ticket subject 75,Auto-generated ticket 75,2025-06-07,2026-01-31,tech2
+TCK-1075,High,Open,Software,Ticket subject 76,Auto-generated ticket 76,2024-04-19,,tech1
+TCK-1076,Critical,Resolved,Policy,Ticket subject 77,Auto-generated ticket 77,2024-03-01,2027-06-02,tech1
+TCK-1077,Critical,Resolved,Access,Ticket subject 78,Auto-generated ticket 78,2025-08-22,2027-03-02,tech2
+TCK-1078,Medium,Resolved,Policy,Ticket subject 79,Auto-generated ticket 79,2024-01-05,2026-06-15,tech2
+TCK-1079,Low,Resolved,Software,Ticket subject 80,Auto-generated ticket 80,2024-08-15,2027-09-07,tech1
+TCK-1080,Low,In Progress,Policy,Ticket subject 81,Auto-generated ticket 81,2024-10-19,,
+TCK-1081,High,Resolved,Access,Ticket subject 82,Auto-generated ticket 82,2025-03-11,2027-08-12,tech1
+TCK-1082,Low,Resolved,Network,Ticket subject 83,Auto-generated ticket 83,2025-08-03,2027-03-21,tech1
+TCK-1083,High,Open,Software,Ticket subject 84,Auto-generated ticket 84,2025-08-04,,tech3
+TCK-1084,Critical,Closed,Access,Ticket subject 85,Auto-generated ticket 85,2025-08-19,2026-02-22,tech2
+TCK-1085,Medium,Resolved,Software,Ticket subject 86,Auto-generated ticket 86,2025-06-03,2027-05-08,tech3
+TCK-1086,High,Open,Hardware,Ticket subject 87,Auto-generated ticket 87,2025-11-27,,tech1
+TCK-1087,Critical,Closed,Access,Ticket subject 88,Auto-generated ticket 88,2024-03-22,2026-08-16,
+TCK-1088,Low,Resolved,Policy,Ticket subject 89,Auto-generated ticket 89,2025-03-30,2027-03-02,
+TCK-1089,Low,Resolved,Software,Ticket subject 90,Auto-generated ticket 90,2025-01-09,2026-06-27,tech1
+TCK-1090,Medium,In Progress,Access,Ticket subject 91,Auto-generated ticket 91,2024-09-15,,tech3
+TCK-1091,High,Closed,Hardware,Ticket subject 92,Auto-generated ticket 92,2024-07-09,2026-01-13,tech1
+TCK-1092,Critical,In Progress,Hardware,Ticket subject 93,Auto-generated ticket 93,2024-02-17,,tech2
+TCK-1093,Critical,In Progress,Access,Ticket subject 94,Auto-generated ticket 94,2025-07-23,,tech2
+TCK-1094,High,Open,Software,Ticket subject 95,Auto-generated ticket 95,2024-12-04,,tech2
+TCK-1095,Critical,Closed,Hardware,Ticket subject 96,Auto-generated ticket 96,2024-08-31,2026-12-06,
+TCK-1096,Low,In Progress,Access,Ticket subject 97,Auto-generated ticket 97,2025-01-09,,
+TCK-1097,Medium,Resolved,Hardware,Ticket subject 98,Auto-generated ticket 98,2025-03-19,2026-10-05,tech1
+TCK-1098,Medium,Resolved,Hardware,Ticket subject 99,Auto-generated ticket 99,2025-10-09,2027-05-12,tech2
+TCK-1099,High,Closed,Software,Ticket subject 100,Auto-generated ticket 100,2024-03-01,2027-10-28,
